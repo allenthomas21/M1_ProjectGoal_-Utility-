@@ -1,11 +1,11 @@
-Introduction:-
+# Introduction:-
 
 A calculator is a device that performs arithmetic operations on numbers.
 The simplest calculators can do only addition, subtraction, multiplication, and division. 
 More sophisticated calculators can handle exponent ial operations, roots, logarithm s, trigonometric functions, and hyperbolic functions.
 Internally, some calculators actually perform all of these functions by repeated processes of addition.
 
-Swot Analysis:-
+## Swot Analysis:-
 
 STRENGTHS
 
@@ -32,7 +32,7 @@ The slower growth in technological innovation will also bring a significant thre
 Increasingly popular brand names in the competition.
 Smarter calculators in the market.
 
-Requirements:-
+### Requirements:-
 
 High level requirements-
 Can do all the basics functions with easy.
