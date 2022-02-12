@@ -18,7 +18,7 @@ int cuberoot();
 
 
 int main(){
-    
+    #if 0
     printf("\t\tWelcome to my calculator!!\n\n");
     int option,n1,n2,answer;
     printf("\n******* Press 0 to quit the program ********\n");
@@ -83,6 +83,8 @@ int main(){
         }
     
     }
-    
+    #else 
+    test_main();
+    #endif
     return 0;
 }
