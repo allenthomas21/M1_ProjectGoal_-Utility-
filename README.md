@@ -9,3 +9,4 @@ A device making mathematical calculations, in particular a small electronic devi
 
 #Code Quality
 https://api.codiga.io/project/31270/score/svg
+https://api.codiga.io/project/31270/status/svg
