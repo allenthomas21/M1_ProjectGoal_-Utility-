@@ -22,7 +22,7 @@ A device making mathematical calculations, in particular a small electronic devi
 [![cppcheck](https://github.com/allenthomas21/M1_scientific_calc_Utility/actions/workflows/static-check.yml/badge.svg)](https://github.com/allenthomas21/M1_scientific_calc_Utility/actions/workflows/static-check.yml)
 
 # Dynamic Check
-
+[![Dynamic  Analysis](https://github.com/allenthomas21/M1_scientific_calc_Utility/actions/workflows/dynamic-analysis.yml/badge.svg)](https://github.com/allenthomas21/M1_scientific_calc_Utility/actions/workflows/dynamic-analysis.yml)
 
 #Code Quality
 https://api.codiga.io/project/31270/score/svg
