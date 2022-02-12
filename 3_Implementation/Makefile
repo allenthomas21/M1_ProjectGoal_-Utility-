@@ -1,5 +1,5 @@
 PROJ_NAME = cal
-SRC= main.c cal.c test_cal.c unity.c
+SRC= src/main.c src/cal.c src/test_cal.c src/unity.c
 
 
 ifdef OS
@@ -17,7 +17,7 @@ endif
 
 
 Build : $(SRC)
-	gcc $(SRC) -o  $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	gcc $(SRC) -Iinc -o  $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
 Run : Build
 	./$(call FixPath,$(PROJ_NAME).$(EXEC)) 
