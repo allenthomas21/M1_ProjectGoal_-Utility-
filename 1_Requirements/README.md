@@ -32,6 +32,18 @@ The slower growth in technological innovation will also bring a significant thre
 Increasingly popular brand names in the competition.
 Smarter calculators in the market.
 
+## 4W & 1H
+HOW:
+Its for students who are into enginnering and mathematical fields.
+WHAT:
+Its a calculator which does mathematical functions.
+WHERE:
+Mostly used in college and schools(educational field).
+WHEN:
+Highly used during exams and practise questions solving by students.
+WHO:
+Main targets are college and school students.
+
 ### Requirements:-
 
 High level requirements-
