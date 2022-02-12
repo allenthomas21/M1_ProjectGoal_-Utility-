@@ -50,5 +50,18 @@ High level requirements-
 Can do all the basics functions with easy.
 Should be able to do more function (but require more program).
 
-Low level requirements-
-Should be able to more than basic functions
+Low level Requirements:
+User must choose an option from the given menu
+When given zero the program should end
+When user performs the answer should be sum of two numbers
+When user performs the answer should be subtraction of two numbers
+When user performs the answer should be multiplication of two numbers 
+When user performs the answer should be division of two numbers
+When user performs the answer should be to find factorial of a number
+When user performs the answer should be to find modulus
+When user performs the answer should be to find power
+When user performs the answer should be to find square
+When user performs the answer should be to find cube
+When user performs the answer should be to find squareroot
+When user performs the answer should be to find cuberoot
+ 
