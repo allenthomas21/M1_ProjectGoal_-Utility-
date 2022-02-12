@@ -13,11 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: configure
-      run: ./configure
-    - name: make
-      run: make
-    - name: make check
+    - name: cpp check install
       run: sudo apt-get install cppcheck 
-    - name: make distcheck
-      run: make distcheck
+    - name: cpp check
+    - run: cppcheck --enable=all 3_Implementation
+    
