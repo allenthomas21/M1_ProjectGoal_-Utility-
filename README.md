@@ -13,7 +13,10 @@ A device making mathematical calculations, in particular a small electronic devi
 
 
 # Build 
-[![cppcheck](https://github.com/allenthomas21/M1_scientific_calc_Utility/actions/workflows/static-check.yml/badge.svg)](https://github.com/allenthomas21/M1_scientific_calc_Utility/actions/workflows/static-check.yml)
+[![C/C++ CI](https://github.com/allenthomas21/M1_scientific_calc_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/allenthomas21/M1_scientific_calc_Utility/actions/workflows/c-cpp.yml)
+
+# unit test
+
 
 # Static Check
 [![cppcheck](https://github.com/allenthomas21/M1_scientific_calc_Utility/actions/workflows/static-check.yml/badge.svg)](https://github.com/allenthomas21/M1_scientific_calc_Utility/actions/workflows/static-check.yml)
