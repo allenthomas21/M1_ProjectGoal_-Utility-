@@ -1,6 +1,6 @@
 PROJ_NAME = cal
-SRC =  src/main.c src/cal.c src/test_cal.c src/unity.c
-TEST_SRC_MAIN = src/test_main.c src/cal.c src/test_cal.c src/unity.c
+SRC =  src/main.c src/cal.c test/test_cal.c unity/unity.c
+TEST_SRC_MAIN = test/test_main.c src/cal.c test/test_cal.c unity/unity.c
 
 ifdef OS
 	RM = del 
@@ -17,7 +17,7 @@ endif
 
 
 Build : $(SRC)
-	gcc $(SRC) -Iinc -o  $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	gcc $(SRC) -Iinc -Iunity -o  $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
 Run : Build
 	./$(call FixPath,$(PROJ_NAME).$(EXEC)) 
@@ -28,9 +28,9 @@ Static_analysis:
 dynamic_analysis: Build
 	valgrind ./$(call FixPath,$(PROJ_NAME).$(EXEC)) 
 
-	
-Test : $(TEST_SRC-MAIN)
-	gcc $(TEST_SRC_MAIN) -Iinc -o  $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+
+Test : $(TEST_SRC_MAIN)
+	gcc $(TEST_SRC_MAIN) -Iinc -Iunity -o  $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 	./$(call FixPath,$(PROJ_NAME).$(EXEC)) 
 
 Clean :
