@@ -76,7 +76,7 @@ Internally, some calculators actually perform all of these functions by repeated
 
 ![structure 1](https://user-images.githubusercontent.com/99074356/156688640-1941f936-6ad8-47d3-9c9e-671d335f6b02.png)
 
-### Requirements:-
+# Requirements:-
 
 
 ## High level Requirements:
@@ -108,11 +108,12 @@ Internally, some calculators actually perform all of these functions by repeated
 
 
 
+# TestPlanAndOutput
 
+## Output-
+![Output testing](https://user-images.githubusercontent.com/99074356/156691343-c09f9016-245b-4de4-b769-00632f18b225.png)
 
-
-
-
-
+## TestPlan-
+![Test cases](https://user-images.githubusercontent.com/99074356/156691363-f8a56e15-4604-4544-b577-33c2449382a7.png)
 
 
