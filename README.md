@@ -27,3 +27,7 @@ A device making mathematical calculations, in particular a small electronic devi
 #Code Quality
 https://api.codiga.io/project/31270/score/svg
 https://api.codiga.io/project/31270/status/svg
+
+![Codiga](https://user-images.githubusercontent.com/99074356/156694190-30310da8-7187-4f13-a60f-99d715574202.png)
+
+
