@@ -54,11 +54,11 @@ Internally, some calculators actually perform all of these functions by repeated
 
 ![Screenshot (817)](https://user-images.githubusercontent.com/99074356/156684108-f45faa52-c778-4619-9a56-90d693d4a2f0.png)
 
-## 4W & 1H
+## 4W & 1H:-
 
 ![Screenshot (820)](https://user-images.githubusercontent.com/99074356/156684132-e0eb30d8-855e-4810-92b9-d94d4a82d192.png)
 
-
+# Architecture
 
 
 
