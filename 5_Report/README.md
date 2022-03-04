@@ -60,6 +60,22 @@ Internally, some calculators actually perform all of these functions by repeated
 
 # Architecture
 
+## Behavior Diagrams:
+
+###  Flowchart-
+
+![Behavior 1](https://user-images.githubusercontent.com/99074356/156688471-434aae7d-481f-4f7a-bc1d-0905da5a1098.png)
+
+### Work Flow Diagram-
+
+![Behavior 2](https://user-images.githubusercontent.com/99074356/156688529-7ee1e6eb-c4c6-4cb6-ad3c-85bea913fe29.png)
+
+## Structure Diagram:
+
+### Component Diagram-
+
+![structure 1](https://user-images.githubusercontent.com/99074356/156688640-1941f936-6ad8-47d3-9c9e-671d335f6b02.png)
+
 
 
 
