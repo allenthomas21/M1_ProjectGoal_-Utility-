@@ -29,11 +29,11 @@ A device making mathematical calculations, in particular a small electronic devi
 
 ## Sololearn
 
-![SOLOLEARN ](https://user-images.githubusercontent.com/99074356/156685175-bab4e635-9d5e-489a-a0ad-410607cdc84c.png)
+![SOLOLEARN ](https://user-images.githubusercontent.com/99074356/156685499-e900171b-a4d6-4804-84a5-7b3b27d7b9cf.png)
 
 ## Linux
 
-![NDG LINUX](https://user-images.githubusercontent.com/99074356/156685229-c94fd6af-a82e-4f10-88ec-21cac7078313.png)
+![NDG LINUX](https://user-images.githubusercontent.com/99074356/156685528-b38fb434-e950-42f1-8dd2-d1fa41d2902d.png)
 
 ## Hackerearth
 
