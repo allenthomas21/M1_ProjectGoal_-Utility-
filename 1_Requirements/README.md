@@ -7,42 +7,11 @@ Internally, some calculators actually perform all of these functions by repeated
 
 ## Swot Analysis:-
 
-STRENGTHS
-
-Innovative,user-friendly and long lasting etc.
-Can be used any time.
-Can be designed to customer's specification.
-
-
-WEAKNESSES
-
-Do not inlude all the operations rather have onlty addition,subtraction multiplication, division ,modulas ,power and factorial.\
-They don't have unquie technologies to offer to the market.
-
-OPPORTUNITIES
-
-The tech-based market has a huge opportunities in capturing the youth market.
-And this calculator comparatively already one step ahead than other.
-Broading their scope in Europe and across the world.
-Could be expand into government and education market.
-
-THREATS
-
-The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
-Increasingly popular brand names in the competition.
-Smarter calculators in the market.
+![Screenshot (817)](https://user-images.githubusercontent.com/99074356/156684108-f45faa52-c778-4619-9a56-90d693d4a2f0.png)
 
 ## 4W & 1H
-HOW:
-Its for students who are into enginnering and mathematical fields.
-WHAT:
-Its a calculator which does mathematical functions.
-WHERE:
-Mostly used in college and schools(educational field).
-WHEN:
-Highly used during exams and practise questions solving by students.
-WHO:
-Main targets are college and school students.
+
+![Screenshot (820)](https://user-images.githubusercontent.com/99074356/156684132-e0eb30d8-855e-4810-92b9-d94d4a82d192.png)
 
 ### Requirements:-
 
