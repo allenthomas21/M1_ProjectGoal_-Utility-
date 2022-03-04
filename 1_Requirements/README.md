@@ -20,7 +20,7 @@ Internally, some calculators actually perform all of these functions by repeated
 | ID | Description | Status |
 | --- | --- |  --- |
 | HR01 |User must be able to choose the options freely (no need to go by the order) | IMPLEMENTED  |
-| HR02 |User should be able to all the basics functions with easy. | IMPLEMENTED  |
+| HR02 |User should be able to do all the basics functions with easy. | IMPLEMENTED  |
 | HR03 |Should be able to do more function (but require more program). | IMPLEMENTED  |
 
 
