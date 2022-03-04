@@ -1,4 +1,4 @@
-##### Behavior Diagrams
+# Behavior Diagrams
 
 ### FLOW CHART
 
