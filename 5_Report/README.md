@@ -24,3 +24,30 @@ A device making mathematical calculations, in particular a small electronic devi
 
 # Dynamic Check
 [![Dynamic  Analysis](https://github.com/allenthomas21/M1_scientific_calc_Utility/actions/workflows/dynamic-analysis.yml/badge.svg)](https://github.com/allenthomas21/M1_scientific_calc_Utility/actions/workflows/dynamic-analysis.yml)
+
+# Certificates 
+
+## Sololearn
+
+![SOLOLEARN ](https://user-images.githubusercontent.com/99074356/156685175-bab4e635-9d5e-489a-a0ad-410607cdc84c.png)
+
+## Linux
+
+![NDG LINUX](https://user-images.githubusercontent.com/99074356/156685229-c94fd6af-a82e-4f10-88ec-21cac7078313.png)
+
+## Hackerearth
+
+![Hackerearth](https://user-images.githubusercontent.com/99074356/156685281-ae5afaa2-4a15-4ec7-abd3-5478e05d5fe5.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
